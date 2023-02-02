@@ -14,6 +14,7 @@ namespace Demo
             UCs.FirstUcs();
             UCs uCs=new UCs();
             uCs.SecondUc(); 
+            Case2.NewUc();
             Console.ReadLine();
         }
     }
